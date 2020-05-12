@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 0001,
+    "title" : "Wall Street Journal",
+    "description" : "The Wall Street Journal is an American business-focused, English-language international daily newspaper based in New York City",
+    "loc" : "10482",
+    "startYear" : 1984,
+    "database" : 2
+  },
+  
+  {
+    "id" : 0002
+    "title" : "The New York Times",
+    "description" : "The New York Times is an American newspaper based in New York City with worldwide influence and readership",
+    "loc" : "|2NYT",
+    "startYear" : 1985,
+    "database" : 1
+  },
+  
+  {
+    "id" : 0003
+    "title" : "The Economist",
+    "description" : "The Economist is an international weekly newspaper that focuses on current affairs, international business, politics, and technology",
+    "loc" : "%7C3210",
+    "startYear" : 1981,
+    "database" : 1
+  },
+]
